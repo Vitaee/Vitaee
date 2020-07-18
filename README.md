@@ -1,7 +1,7 @@
 ### Hello everyone! I am Can İlgu 👋
 
 
-<img src="https://media.giphy.com/media/3A3PvQtjS0oyA/giphy.gif" width="90px"></h2>
+<img src="https://media.giphy.com/media/ehTzFBjQEyh8lQAn8b/giphy.gif" width="90px"></h2>
 
 I am a software engineer student from North Cyprus🇹🇷 I describe myself as a Machine Learning and Data Science Enthusiast. The first year of my university I met with that two things. I love to code with Python. You can reach me via gmail , canilguu@gmail.com
 
@@ -13,8 +13,8 @@ Portfolio site: [Portfolio](http://canilgu.com/)
 **📫 Where to find me:** 
 
 <code><a href="https://www.instagram.com/canilgu/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a></code>
-<code><a href="https://twitter.com/EtiiPuff9" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitter/twitter-icon.svg"></a></code>
-<code><a href="https://www.linkedin.com/in/can-ilgu-657730198/" target="_blank"><img height="50" src="hhttps://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+<code><a href="https://twitter.com/EtiiPuff9" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"></a></code>
+<code><a href="https://www.linkedin.com/in/can-ilgu-657730198/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 <code><a href="https://www.facebook.com/can.ilgu" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a></code>
 
 
