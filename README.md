@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
 
-I am a software engineer from Turkey🇹🇷 I describe myself as a Deep Learning Enthusiast. The third year of my university I met with deep learning. I love to code with Python. You can reach me on [hackerrank](https://www.hackerrank.com/isen_kubilay?hr_r=1), [datacamp](https://www.datacamp.com/profile/isenkubilay) and [repl.it](https://repl.it/@Kubilayen) 
+I am a software engineer student from North Cyprus🇹🇷 I describe myself as a Machine Learning and Data Science Enthusiast. The first year of my university I met with that two things. I love to code with Python. You can reach me via gmail , canilguu@gmail.com
 
 😄 Pronouns: he/him
 
@@ -12,10 +12,10 @@ Portfolio site: [Portfolio](http://canilgu.com/)
 
 **📫 Where to find me:** 
 
-[![Twitter Badge](https://img.shields.io/badge/-@isenkubilay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EtiiPuff9)](https://twitter.com/EtiiPuff9) 
-[![Linkedin Badge](https://img.shields.io/badge/-kubilayisen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/can-ilgu-657730198/)](https://www.linkedin.com/in/can-ilgu-657730198/) 
-[![Instagram](<img height="50" src="https://i.ibb.co/6w9kVfg/768px-Instagram-logo-2016-svg.png")](https://www.instagram.com/canilgu/)
-[!Facebook](https://i.ibb.co/6BTvp51/f-logo-RGB-Hex-Blue-512.png)](https://www.facebook.com/can.ilgu)
+<code><a href="https://www.instagram.com/canilgu/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a></code>
+<code><a href="https://twitter.com/EtiiPuff9" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitter/twitter-icon.svg"></a></code>
+<code><a href="https://www.linkedin.com/in/can-ilgu-657730198/" target="_blank"><img height="50" src="hhttps://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+<code><a href="https://www.facebook.com/can.ilgu" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a></code>
 
 
 **💼 Currently working as:** Python Developer at <a href="https://www.instagram.com/yazilimatolyesi/" target="_blank"><b>Yazılım Atölyesi Akademi</b></a>
@@ -43,7 +43,6 @@ Portfolio site: [Portfolio](http://canilgu.com/)
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/shgysk8zer0/logos/2eb0711931532297a08526b39f778c4365a202e1/typescript.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/amazon-artificial-intelligence.svg"></a></code>
-
 
 
 
