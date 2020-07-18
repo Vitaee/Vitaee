@@ -7,7 +7,9 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 
 😄 Pronouns: he/him
 
-Portfolio site: [Portfolio](http://canilgu.com/)
+**Portfolio site**
+<code><a href="http://canilgu.com/" target="_blank"><img height="50" src="https://i.ibb.co/JyV7NGF/devilgu.png"></a></code>
+
 
 
 **📫 Where to find me:** 
