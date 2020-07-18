@@ -1,7 +1,7 @@
 ### Hello everyone! I am Can İlgu 👋
 
 
-<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="90px"></h2>
+<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="100px"></h2>
 
 I am a software engineer student from North Cyprus🇹🇷 I describe myself as a Machine Learning and Data Science Enthusiast. The first year of my university I met with that two things. I love to code with Python. You can reach me via gmail , canilguu@gmail.com
 
