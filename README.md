@@ -12,10 +12,9 @@ Portfolio site: [Portfolio](http://canilgu.com/)
 
 **📫 Where to find me:** 
 
-
-[![Personal Website](https://i.ibb.co/JyV7NGF/devilgu.png)](http://canilgu.com/)
-[![LinkedIn](https://i.ibb.co/JrsQrP1/Linkedin-Logo-2003-2011.png)](https://www.linkedin.com/in/can-ilgu-657730198/)
-[![Instagram](https://i.ibb.co/6w9kVfg/768px-Instagram-logo-2016-svg.png)](https://www.instagram.com/canilgu/)
+[![Twitter Badge](https://img.shields.io/badge/-@isenkubilay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EtiiPuff9)](https://twitter.com/EtiiPuff9) 
+[![Linkedin Badge](https://img.shields.io/badge/-kubilayisen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/can-ilgu-657730198/)](https://www.linkedin.com/in/can-ilgu-657730198/) 
+[![Instagram](<img height="50" src="https://i.ibb.co/6w9kVfg/768px-Instagram-logo-2016-svg.png")](https://www.instagram.com/canilgu/)
 [!Facebook](https://i.ibb.co/6BTvp51/f-logo-RGB-Hex-Blue-512.png)](https://www.facebook.com/can.ilgu)
 
 
