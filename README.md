@@ -55,6 +55,9 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 
 ![Can's github stats](https://github-readme-stats.vercel.app/api?username=Vitaee&show_icons=true&line_height=30)
 
-[![HitCount](http://hits.dwyl.com/Vitaee/https://githubcom/Vitaee/PythonileSesliAsistanV2.svg)](http://hits.dwyl.com/Vitaee/https://githubcom/Vitaee/PythonileSesliAsistanV2)
+![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaee&hide=javascript,html&theme=radical&layout=compact)
+
+
+
 
 
