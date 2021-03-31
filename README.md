@@ -20,16 +20,16 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 <code><a href="https://www.facebook.com/can.ilgu" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a></code>
 
 
-**💼 Currently working as:** Python Developer at <a href="https://www.instagram.com/yazilimatolyesi/" target="_blank"><b>Yazılım Atölyesi Akademi</b></a>
+**💼 Currently working as:** Remote Python Developer.
 
 **👨🏻‍💻 Currently working on:** 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
-<code><a href="https://www.selenium.dev/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/selenium.svg"></a></code>
+<code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://seeklogo.com/images/F/flutter-logo-304BF94F55-seeklogo.com.png"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png"></a></code>
 
 
 
@@ -48,7 +48,7 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/shgysk8zer0/logos/2eb0711931532297a08526b39f778c4365a202e1/typescript.svg"></a></code>
+<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/amazon-artificial-intelligence.svg"></a></code>
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 
