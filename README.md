@@ -31,9 +31,13 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png"></a></code>
 
-
+** :heart: Love to use:**
 
 <code><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/pycharm.svg"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"></a></code>
+<code><a href="https://www.heroku.com/" target="_blank"><img height="50" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png"></a></code>
 
 **💬 Ask me about:** 
 
