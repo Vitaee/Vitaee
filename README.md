@@ -20,7 +20,7 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 <code><a href="https://www.facebook.com/can.ilgu" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a></code>
 
 
-**💼 Currently working as:** Remote Python Developer.
+**💼 Currently working as:** Backend Developer <a href="https://www.yesilscience.com/tr/" target="_blank">@YesilScience</a>.
 
 **👨🏻‍💻 Currently working on:** 
 
