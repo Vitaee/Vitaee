@@ -3,12 +3,11 @@
 
 <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="100px"></h2>
 
-I am a software engineer student from North Cyprus🇹🇷 I describe myself as a Machine Learning and Data Science Enthusiast. The first year of my university I met with that two things. I love to code with Python. You can reach me via gmail , canilguu@gmail.com
+I am a software engineer student from North Cyprus🇹🇷 I describe myself as a Machine Learning and Data Science Enthusiast. The first year of my university I met with that two things. I love to code with Python. Love to learn new things. You can reach me via gmail , canilguu@gmail.com
 
-😄 Pronouns: he/him
 
-**Portfolio site:**
-<code><a href="http://canilgu.com/" target="_blank"><img height="40" src="https://i.ibb.co/JyV7NGF/devilgu.png"></a></code>
+**Portfolio site: ( Soon )**
+<code><a href="#"><img height="40" src="https://i.ibb.co/JyV7NGF/devilgu.png"></a></code>
 
 
 
@@ -20,7 +19,7 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 <code><a href="https://www.facebook.com/can.ilgu" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a></code>
 
 
-**💼 Currently working as:** Backend Developer <a href="https://www.yesilscience.com/tr/" target="_blank">@YesilScience</a>.
+**💼 Currently working as:** Software Engineer Intern at <a href="https://www.gunsel.com.tr/" target="_blank">@Günsel</a>.
 
 **👨🏻‍💻 Currently working on:** 
 
