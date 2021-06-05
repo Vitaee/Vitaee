@@ -56,9 +56,16 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 
 
+<h3 align="left">GitHub Stats</h3>
 
+<p align="left">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vitaee&show_icons=true&theme=tokyonight" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitaee&theme=tokyonight" />
+   
+   [![Can's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vitaee&theme=react-dark)](https://git.io/JGdfB)
+</p>
 
-![Can's github stats](https://github-readme-stats.vercel.app/api?username=Vitaee&show_icons=true&line_height=30)
+<br>
 
 ![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaee&hide=javascript,html&theme=radical&layout=compact)
 
