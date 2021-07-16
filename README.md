@@ -61,6 +61,8 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 <p align="left">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vitaee&show_icons=true&theme=tokyonight" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitaee&theme=tokyonight" />
+   <img height=140 src="https://github-profile-trophy.vercel.app/?username=Vitaee&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5" alt="canilgu" />
+  
    
    [![Can's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vitaee&theme=react-dark)](https://git.io/JGdfB)
 </p>
