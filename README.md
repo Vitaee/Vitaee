@@ -67,6 +67,10 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
    [![Can's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vitaee&theme=react-dark)](https://git.io/JGdfB)
 </p>
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Vitaee/CPlusBasics/main/github-user-contribution.svg" alt="canilgu">
+   </p>
+
 <br>
 
 ![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaee&hide=javascript,html&theme=radical&layout=compact)
