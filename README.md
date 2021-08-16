@@ -77,5 +77,6 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 
 
 
+![image title](https://rushter.com/counter.svg)
 
 
