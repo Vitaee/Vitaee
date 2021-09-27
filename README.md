@@ -58,6 +58,8 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 
 <h3 align="left">GitHub Stats</h3>
 
+![metrics.lecoq.io](https://metrics.lecoq.io/Vitaee)
+
 <p align="left">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vitaee&show_icons=true&theme=tokyonight" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitaee&theme=tokyonight" />
