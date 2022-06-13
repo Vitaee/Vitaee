@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="100px"></h2>
 
-I am a software engineer student from North Cyprus🇹🇷 I describe myself as a Machine Learning and Data Science Enthusiast. The first year of my university I met with that two things. I love to code with Python. Love to learn new things. You can reach me via gmail , canilguu@gmail.com
+I am a software engineer student from North Cyprus🇹🇷 I describe myself as a friendly social person. The first year of my university I met with friends and create a little software crew. I love to code with Python. Love to learn new things. You can reach me via gmail , canilguu@gmail.com
 
 
 **Portfolio site: ( Soon )**
@@ -19,7 +19,7 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 <code><a href="https://www.facebook.com/can.ilgu" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a></code>
 
 
-**💼 Currently working as:** Software Engineer Intern at <a href="https://www.gunsel.com.tr/" target="_blank">@Günsel</a>.
+**💼 Currently working as:** Software Engineer Intern at <a href="https://thebluedot.co/" target="_blank">@Bluedot</a>.
 
 **👨🏻‍💻 Currently working on:** 
 
