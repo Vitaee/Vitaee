@@ -6,8 +6,8 @@
 I am a software engineer student from North Cyprus🇹🇷 I describe myself as a friendly social person. The first year of my university I met with friends and create a little software crew. I love to code with Python. Love to learn new things. You can reach me via gmail , canilguu@gmail.com
 
 
-**Portfolio site: ( Soon )**
-<code><a href="#"><img height="40" src="https://i.ibb.co/JyV7NGF/devilgu.png"></a></code>
+**Portfolio site:**
+<code><a href="https://vitaee.github.io/myPortfolio/"><img height="40" src="https://i.ibb.co/JyV7NGF/devilgu.png"></a></code>
 
 
 
