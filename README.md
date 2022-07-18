@@ -19,7 +19,7 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 <code><a href="https://www.facebook.com/can.ilgu" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a></code>
 
 
-**💼 Currently working as:** Software Engineer Intern at <a href="https://thebluedot.co/" target="_blank">@Bluedot</a>.
+**💼 Currently working as:** Software Engineer Intern at <a href="https://www.gunsel.com.tr/en/" target="_blank">@Günsel</a>.
 
 **👨🏻‍💻 Currently working on:** 
 
