@@ -56,7 +56,7 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">GitHub Metrics</h3> <small><a href="https://metrics.lecoq.io/insights/Vitaee" target="_blank">see more details about me!</a></small>
 
 ![githubInfo](https://metrics.lecoq.io/Vitaee)
 
@@ -80,5 +80,8 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 
 
 ![image title](https://rushter.com/counter.svg)
+
+
+
 
 
