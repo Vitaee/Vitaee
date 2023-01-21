@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="100px"></h2>
 
-I am a software engineer student from North Cyprus🇹🇷 I describe myself as a friendly social person. The first year of my university I met with friends and create a little software crew. I love to code with Python. Love to learn new things. You can reach me via gmail , canilguu@gmail.com
+I am a software engineer from North Cyprus🇹🇷 I describe myself as a friendly social person. I have 3 year commercial experience in software development. I love to code with Python and Javascript. Love to learn new technologies and frameworks. You can reach me via gmail , canilguu@gmail.com
 
 
 **Portfolio site:**
@@ -19,41 +19,41 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
 <code><a href="https://www.facebook.com/can.ilgu" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a></code>
 
 
-**💼 Currently working as:** Backend Developer at <a href="https://www.ozguryazilim.com.tr/" target="_blank">@Özgür Yazılım A.Ş</a>.
+**💼 Currently working as:** Software Engineer - Infotainment at <a href="https://www.gunsel.com.tr/" target="_blank">Günsel</a>.
 
 **👨🏻‍💻 Currently working on:** 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 <code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://seeklogo.com/images/F/flutter-logo-304BF94F55-seeklogo.com.png"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
+<code><a href="https://www.qt.io/" target="_blank"><img height="50" src="https://seeklogo.com/images/Q/qt-small-logo-E980A7F727-seeklogo.com.png"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png"></a></code>
 
 **:heart: Love to use:**
 
 <code><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/pycharm.svg"></a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"></a></code>
-<code><a href="https://www.heroku.com/" target="_blank"><img height="50" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png"></a></code>
+<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+
 
 **💬 Ask me about:** 
 
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
+<code><a href="https://qt.io/" target="_blank"><img height="50" src="https://seeklogo.com/images/Q/qt-small-logo-E980A7F727-seeklogo.com.png"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
 
 
 **⛰ Looking forward to learn:** 
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/CAN_bus" target="_blank"><img height="50" src="http://domoticx.com/wp-content/uploads/2020/12/canbus-icon.png"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/amazon-artificial-intelligence.svg"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 
 
 <h3 align="left">GitHub Metrics</h3> <small><a href="https://metrics.lecoq.io/insights/Vitaee" target="_blank">see more details about me!</a></small>
