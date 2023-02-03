@@ -9,25 +9,16 @@ I am a software engineer from North Cyprus🇹🇷 I describe myself as a friend
 **Portfolio site:**
 <code><a href="https://vitaee.github.io/myPortfolio/"><img height="40" src="https://i.ibb.co/JyV7NGF/devilgu.png"></a></code>
 
-
-
-**📫 Where to find me:** 
-
-<code><a href="https://www.instagram.com/canilgu/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a></code>
-<code><a href="https://twitter.com/EtiiPuff9" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"></a></code>
-<code><a href="https://www.linkedin.com/in/can-ilgu-657730198/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
-<code><a href="https://www.facebook.com/can.ilgu" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a></code>
-
-
 **💼 Currently working as:** Software Engineer - Infotainment at <a href="https://www.gunsel.com.tr/" target="_blank">Günsel</a>.
 
 **👨🏻‍💻 Currently working on:** 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
-<code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://seeklogo.com/images/F/flutter-logo-304BF94F55-seeklogo.com.png"></a></code>
+<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img height="50" src="https://repository-images.githubusercontent.com/260928305/92388600-8d1c-11ea-9993-a726466b5099"></a></code>
+<code><a href="https://www.ruby-lang.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-vertical.svg"></a></code>
 <code><a href="https://www.qt.io/" target="_blank"><img height="50" src="https://seeklogo.com/images/Q/qt-small-logo-E980A7F727-seeklogo.com.png"></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png"></a></code>
 
 **:heart: Love to use:**
@@ -37,6 +28,10 @@ I am a software engineer from North Cyprus🇹🇷 I describe myself as a friend
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png"></a></code>
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"></a></code>
+
+
 
 
 **💬 Ask me about:** 
@@ -54,6 +49,8 @@ I am a software engineer from North Cyprus🇹🇷 I describe myself as a friend
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/amazon-artificial-intelligence.svg"></a></code>
+<code><a href="https://docs.flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
+
 
 
 <h3 align="left">GitHub Metrics</h3> <small><a href="https://metrics.lecoq.io/insights/Vitaee" target="_blank">see more details about me!</a></small>
