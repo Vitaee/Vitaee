@@ -9,7 +9,7 @@ I am a software engineer from North Cyprus🇹🇷 I describe myself as a friend
 **Portfolio site:**
 <code><a href="https://vitaee.github.io/myPortfolio/"><img height="40" src="https://i.ibb.co/JyV7NGF/devilgu.png"></a></code>
 
-**💼 Currently working as:** Software Engineer - Infotainment at <a href="https://www.gunsel.com.tr/" target="_blank">Günsel</a>.
+**💼 Currently working as:** Software Engineer at <a href="https://kktctelsim.com/" target="_blank">Vodafone</a>.
 
 **👨🏻‍💻 Currently working on:** 
 
