@@ -51,31 +51,6 @@ I am a software engineer from North Cyprus🇹🇷 I describe myself as a friend
 <code><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/amazon-artificial-intelligence.svg"></a></code>
 <code><a href="https://docs.flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
 
-
-
-<h3 align="left">GitHub Metrics</h3> <small><a href="https://metrics.lecoq.io/insights/Vitaee" target="_blank">see more details about me!</a></small>
-
-![githubInfo](https://metrics.lecoq.io/Vitaee)
-
-<p align="left">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vitaee&show_icons=true&theme=tokyonight" />
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitaee&theme=tokyonight" />
-   <img height=140 src="https://github-profile-trophy.vercel.app/?username=Vitaee&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5" alt="canilgu" />
-  
-   
-   [![Can's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vitaee&theme=react-dark)](https://git.io/JGdfB)
-</p>
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/Vitaee/CPlusBasics/main/github-user-contribution.svg" alt="canilgu">
-   </p>
-
-<br>
-
-![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaee&hide=javascript,html&theme=radical&layout=compact)
-
-
-
 ![image title](https://rushter.com/counter.svg)
 
 
