@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a friendly and social Software Engineer from North Cyprus 🇹🇷 with 5+ years of commercial development experience. Currently working as a Software Engineer at [Vodafone](https://kktctelsim.com/).
+I'm a Software Engineer from North Cyprus 🇹🇷 with 5+ years of professional development experience. Currently working as a Software Engineer at [Vodafone](https://kktctelsim.com/).
 
 📫 Reach me at: canilguu@gmail.com  
 🔗 Portfolio: [canilgu.dev](https://canilgu.dev/)
