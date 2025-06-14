@@ -68,7 +68,7 @@ I'm a Software Engineer from North Cyprus 🇹🇷 with 5+ years of professional
 ![Profile Views](https://rushter.com/counter.svg)
 
 [![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaee&show_icons=true&theme=tokyonight)](https://github.com/vitaee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaee&layout=compact&theme=tokyonight)](https://github.com/vitaee)
+[![Top Info](https://github-readme-streak-stats.herokuapp.com/?user=Vitaee&theme=tokyonight)](https://github.com/vitaee)
 
 
 
